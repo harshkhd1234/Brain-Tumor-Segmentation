@@ -26,4 +26,4 @@ Hardware Specifications:
 ● Internal Storage: >10 GB
 
 Dataset:
-Brain MRI Segmentation is provided here . The dataset consists of 5000 images and 2 classes.
+Brain MRI Segmentation is provided https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation/download . The dataset consists of 5000 images and 2 classes.
